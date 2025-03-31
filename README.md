@@ -64,11 +64,11 @@ Commercial use is prohibited (no one may profit from this mod).
 
 Derivatives must also be shared under APL-SA.
 
-# Credits & Thanks
+# Credits & Thanks in no particular order
 
 MJ – Original concept and development
 
-ACE & KAT Medical Teams – Compatibility & inspiration
+ACE & KAT & ACM devs – Compatibility & inspiration
 
 # Community Testers – Feedback and improvements
 
