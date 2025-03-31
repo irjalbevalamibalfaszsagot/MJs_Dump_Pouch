@@ -6,7 +6,7 @@ Download latest stable release on Steam (Coming Soon)
 
 MJ's Dump Pouch adds a realistic and functional dump pouch system to Arma 3, designed to integrate with ACE, ACM, and KAT Medical. It allows players to manage medical waste, spent magazines, and other small items, improving tactical awareness and realism.
 
-# Features
+# Planned Features
 
 Medical Waste Management: Used bandages, gauze, and other medical items are automatically stored in the pouch instead of being dropped on the ground.
 
@@ -16,7 +16,7 @@ Realistic Weight System: The pouch has weight but does not take up inventory spa
 
 ACE Integration: Supports ACE interaction menus for checking and emptying the pouch.
 
-SSE & Tactical Cleanup: Prevents enemy tracking through discarded medical waste, enhancing stealth and OPSEC.
+Lambs Integration:SSE & Tactical Cleanup: Prevents enemy tracking through discarded medical waste, enhancing stealth and OPSEC. 
 
 # Requirements
 
@@ -45,8 +45,6 @@ When treating a casualty, medical waste is automatically collected in the pouch.
 Spent magazines and other items can be stored manually.
 
 Use ACE interaction to empty the pouch when needed.
-
-LAMBS integration.
 
 # Known Issues
 
