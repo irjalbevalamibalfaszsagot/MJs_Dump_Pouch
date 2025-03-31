@@ -36,7 +36,7 @@ Ensure CBA_A3, ACE3, KAT Medical, and ACM (if used) are loaded in your modlist.
 
 Launch Arma 3 with the required dependencies.
 
-# Usage
+# Planned Usage
 
 Equip the MJ's Dump Pouch from the arsenal.
 
@@ -45,6 +45,8 @@ When treating a casualty, medical waste is automatically collected in the pouch.
 Spent magazines and other items can be stored manually.
 
 Use ACE interaction to empty the pouch when needed.
+
+LAMBS integration.
 
 # Known Issues
 
