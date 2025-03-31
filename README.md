@@ -24,9 +24,9 @@ CBA_A3 v3.16.0 or later
 
 ACE3 v3.16.1 or later
 
-KAT Medical (for medical waste integration)
+!Optional KAT - Advanced Medical (for medical waste integration) 
 
-ACM (Advanced Combat Medicine) (Optional)
+!Optional ACM - Advanced Combat Medicine (for medical waste integration) 
 
 # Installation
 
